@@ -4,10 +4,10 @@
 - 🛠️ I’m currently working on **my portfolio.**
 - 👨🏻‍💻 Currently learning: **HTML, CSS (scss, tailwind), JavaScript/TypeScript, Next.js, React.js, Node.js/Express.js, MongoDB.**
 - 🤝 I’m looking to have a job on **Front-End Development**. Although Back-End I like more. But I would not have done so. 
-- 🧸 Get in touch with me: **junkratru@gmail.com**
+- 🧸 Get in touch with me: junkratru@gmail.com
  
 #### 👩‍💻 Tech Stack
-*JavaScript | TypeScript | Next.js | React.js | Node.js | Express.js | MongoDB_
+*JavaScript | TypeScript | Next.js | React.js | Node.js | Express.js | MongoDB*
  - </> **Front-End Dev:** HTML, CSS/scss/tailwind, MD/MDX, JS/JSX, TS/TSX, NoSQL, JSON, etc. 
  - ⚙️ **Back-End Dev:** Node.js, Express.js, MongoDB, nginx, pm2
  - 🖥️ **Add software:** Markdown, git/Github, Vercel, GoogleApps, Storybook/Chromatic, MS Photoshop, Draw.io, Figma
